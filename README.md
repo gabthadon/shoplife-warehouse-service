@@ -55,4 +55,4 @@ warehouse-service/
 
 ```bash
 docker build -t warehouse-service .
-docker run -p 8080:8080 warehouse-service
+docker run -p 8080:8080 warehouse-service.
